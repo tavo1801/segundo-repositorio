@@ -11,3 +11,4 @@ Este repositorio sera utilizado para inciarlo con un archivo README
 6) agregar los cambios al stage: git add
 7) confirmar que los archivos que estan en stage sera enviados al github: git commit -m "mensaje del commit"
 8) subir el commit con los cambios a la nube (git hub): git push origin <nombre de la rama>
+9) revisar en la web nuestro repositorio en github y validar que los cambios han subido
